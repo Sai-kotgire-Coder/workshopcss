@@ -1,0 +1,26 @@
+.main-container{
+   border: 1px solid lightgray;
+   border-radius: 5px;
+width: 400px;
+/* padding: 10px; */
+margin: 10px;
+border-radius: 10px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.img{
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+    padding: 10px 30px;
+    margin-top: 30px;
+}
+.sub-container{
+    color: dodgerblue;
+    font-family: Arial, Helvetica, sans-serif;
+    border-top: 1px solid lightgray;
+    box-sizing: border-box;
+    padding-top: 10px;
+}
+.combine{
+    padding: 10px 20px;
+}

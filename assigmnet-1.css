@@ -1,0 +1,24 @@
+.container{
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid rgb(130, 113, 113);
+    width: 400px;
+    height:200px;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 20px;
+    margin: 10px auto;
+    border-radius: 14px;
+    background-color: #28DF99;    
+}
+.btn{
+    background-color: white;
+    color: black;
+    width: 200px;
+    height: 38px;
+    border-radius: 30px;
+    margin-top: 20px;
+    font-size: large;
+    font-style: bold;
+    border: 0px;
+}
